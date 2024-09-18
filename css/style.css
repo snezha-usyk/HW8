@@ -1,0 +1,23 @@
+h1{
+    color: rgb(155, 145, 132);
+}
+
+li:nth-child(3){
+    color: cadetblue;
+}
+
+li:nth-child(8){
+    color: rgb(190, 127, 127);
+}
+
+li:nth-child(14){
+    color: rgb(127, 117, 176);
+}
+
+li:nth-child(17){
+    color: rgb(96, 157, 31);
+}
+
+li:nth-child(21){
+    color: rgb(200, 146, 66);
+}
