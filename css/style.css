@@ -21,3 +21,10 @@ li:nth-child(17){
 li:nth-child(21){
     color: rgb(200, 146, 66);
 }
+h1:hover{
+    color:blue
+}
+
+li:hover{
+    color:deeppink
+}
